@@ -1,11 +1,7 @@
 ### Hi there 👋
-<!-- <br/>
-<br/>
-[7]: https://https://skyline.github.com/hakxcore/2021
+<!-- https://https://skyline.github.com/hakxcore/2021
 
 # hakxcore
-<br/>
-<iframe src="https://skyline.github.com/hakxcore/2021" frameborder="0"></iframe>
 
 - 🔭 I’m currently working on my Timepass Project
 - 🌱 I’m currently learning Python
