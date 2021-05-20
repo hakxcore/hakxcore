@@ -4,8 +4,8 @@
 - 🔭 I’m currently working on my Termux-snippets Project
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on My Project
-- 💬 Ask me about hacking
-- 📫 How to reach me:
+- 💬 Ask me about hacking 
+- 📫 How to reach me: click on above facebook or instagram button
 - ⚡ Proud: To be an Indian🇮🇳 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=hakxcore alt=hakxcore /> </p>
 
