@@ -1,4 +1,3 @@
-
 # hakxcore
   [![Facebokm Badge](https://img.shields.io/badge/-hakxcore-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/hakxcore/)](https://www.facebook.com/hakxcore) [![Instagram Badge](https://img.shields.io/badge/-hakxcore-f01397?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/the_intellectual_kiddy/)](https://www.instagram.com/the_intellectual_kiddy/)
 ### Hi there👋
