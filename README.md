@@ -9,5 +9,5 @@
 - ⚡ Proud: To be an Indian🇮🇳 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=hakxcore alt=hakxcore /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=hakxcore&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/hakxcore/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakxcore&layout=compact&theme=dark)](https://github.com/hakxcore/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=hakxcore&show_icons=true&theme=default&include_all_commits=true)](https://github.com/hakxcore/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakxcore&layout=compact&theme=default)](https://github.com/hakxcore/github-readme-stats)
