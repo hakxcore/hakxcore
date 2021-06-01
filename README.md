@@ -1,5 +1,5 @@
 # Hakxcore
-  [![Facebokm Badge](https://img.shields.io/badge/-hakxcore-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/hakxcore/)](https://www.facebook.com/hakxcore) [![Instagram Badge](https://img.shields.io/badge/-hakxcore-f01397?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/the_intellectual_kiddy/)](https://www.instagram.com/the_intellectual_kiddy/)
+  [![Facebokm Badge](https://img.shields.io/badge/-hakxcore-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100020452812971)](https://www.facebook.com/profile.php?id=100020452812971) [![Instagram Badge](https://img.shields.io/badge/-hakxcore-f01397?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/the_intellectual_kiddy/)](https://www.instagram.com/the_intellectual_kiddy/)
   <img src="/media/aboutme.gif" alt="About me" width="100%" height="400">
 # Hi there👋
 - 🔭 I’m currently working on my Termux-snippets Project
