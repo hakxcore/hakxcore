@@ -1,7 +1,16 @@
 ## Hi 👋, I'm [Mukesh](https://github.com/hakxcore)
 <h3 align="center">A passionate developer and hunter from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hakxcore" alt="hakxcore" /></a> </p>
+
+<table style="border: none;">
+  <tr style="border: none; padding: 0; margin: 0;">
+  <td style="border: none; padding: 0; margin: 0;"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+      <img src="https://github-profile-trophy.vercel.app/?username=hakxcore" alt="hakxcore" width='700' height='200' style='margin-right: 1rem;'/>
+    </a>
+    </td>
+  </tr>
+  </table>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hakxcore&label=Profile%20views&color=0e75b6&style=flat" alt="hakxcore" /> </p>
 
 - 🔭 I’m currently working on [Timepass](https://github.com/hakxcore/Timepass) project
@@ -24,7 +33,7 @@
  
   <td style="border: none; padding: 0; margin: 0;"> 
     <a href="https://dev.to/hakxcore" target="_blank">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Dev akxcore" width='30' height='40' style='margin-right: 1rem;'/>
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Dev hakxcore" width='30' height='40' style='margin-right: 1rem;'/>
     </a>
    </td>
     
@@ -50,7 +59,7 @@
  
    <td style="border: none; padding: 0; margin: 0;"> 
     <a href="https://www.youtube.com/channel/UCmN1GRJ76H4y45Y81iJbYWQ" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucmn1grj76h4y45y81ijbywq" width='30' height='40' style='margin-right: 1rem;'/>
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Youtube Hakxcore" width='30' height='40' style='margin-right: 1rem;'/>
     </a>
    </td
     </tr>
