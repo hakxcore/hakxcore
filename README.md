@@ -52,7 +52,7 @@
    </td>
     
   <td style="border: none; padding: 0; margin: 0;"> 
-    <a href="https://www.instagram.com/hakxcor/" target="_blank">
+    <a href="https://www.instagram.com/hakxcore/" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Mukesh kumar's instagram" width='30' height='40' style='margin-right: 1rem;'/>
     </a>
    </td>
