@@ -1,4 +1,4 @@
-## Hi 👋, I'm [Mukesh](https://github.com/hakxcore)
+## Hi 👋, I'm [Mukesh](https://github.com/hakxcore) <img src="/media/butterfly.png" alt="hakxcore"/>
 <h3 align="center">A passionate developer and hunter from India</h3>
 
 
