@@ -1,4 +1,4 @@
-## Hi 👋, I'm [Mukesh](https://github.com/hakxcore) <img src="/media/butterfly.png" alt="hakxcore"/>
+## Hi 👋, I'm [Mukesh](https://github.com/hakxcore) <img src="https://github.com/hakxcore/hakxcore/blob/main/media/butterfly.gif" alt="butterfly" width="150" height="40"/> <img src="https://github.com/hakxcore/hakxcore/blob/main/media/dog.gif" alt="butterfly" width="130" height="30"/>
 <h3 align="center">A passionate developer and hunter from India</h3>
 
 
