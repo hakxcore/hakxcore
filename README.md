@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **pentesting**
 
-- 📫 How to reach me **connections below** 
+- 📫 How to reach me **from ** 
 
 <h3 align="left">Connect with me:</h3>
 
