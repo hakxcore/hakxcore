@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on [Timepass](https://github.com/hakxcore/Timepass) project
 
-- 🌱 I’m currently learning **Python,d3js,c++**
+- 🌱 I’m currently learning **Researching,Python,c++**
 
 - 👯 I’m looking to collaborate on [Termux-snippets](https://github.com/hakxcore/Termux-snippets)
 
