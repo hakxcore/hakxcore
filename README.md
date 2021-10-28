@@ -1,5 +1,5 @@
 # Hi 👋, I'm [Mukesh](https://github.com/hakxcore) <img src="media/butterfly.gif" alt="butterfly" width=30%/> <img src="media/dog.gif" alt="butterfly" width=20%/>
-<h3 align="center">A passionate developer and hunter from India</h3>
+<!--<h3 align="center"></h3>-->
 
 
 <table style="border: none;">
