@@ -25,7 +25,7 @@
 
 - 💬 Ask me about **`pentesting`**
 
-- 📫 How to reach me **from 👇** 
+- 📫 How to find me **from 👇** 
 
 <h3 align="left">Connect with me:</h3>
 
