@@ -1,6 +1,8 @@
 # Hi 👋, I'm [Mukesh](https://github.com/hakxcore) <img src="media/butterfly.gif" alt="butterfly" width=30%/> <img src="media/dog.gif" alt="butterfly" width=20%/>
 <!--<h3 align="center"></h3>-->
-
+</br>
+</br>
+</br>
 
 <table style="border: none;">
   <tr style="border: none; padding: 0; margin: 0;">
@@ -13,15 +15,15 @@
   </table>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hakxcore&label=Profile%20views&color=0e75b6&style=flat" alt="hakxcore" /> </p>
 
-- 🔭 I’m currently working on [Timepass](https://github.com/hakxcore/Timepass) project
+- 🔭 I’m currently working on [`Timepass`](https://github.com/hakxcore/Timepass) project
 
-- 🌱 I’m currently learning **Researching,Python,c++**
+- 🌱 I’m currently learning **`javascript`, `Go` and `solidity`.**
 
-- 👯 I’m looking to collaborate on [Termux-snippets](https://github.com/hakxcore/Termux-snippets)
+- 👯 I’m looking to collaborate on [`Termux-snippets`](https://github.com/hakxcore/Termux-snippets)
 
-- 🤝 I’m looking for help with [TrackPhoneNumber](https://github.com/hakxcore/TrackPhoneNumber)
+- 🤝 I’m looking for help with [`TrackPhoneNumber`](https://github.com/hakxcore/TrackPhoneNumber)
 
-- 💬 Ask me about **pentesting**
+- 💬 Ask me about **`pentesting`**
 
 - 📫 How to reach me **from 👇** 
 
