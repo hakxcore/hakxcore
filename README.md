@@ -1,5 +1,5 @@
-# <img src="media/animated-tree.gif" alt="butterfly" width=15%/> Hi 👋, I'm [Mukesh](https://github.com/hakxcore) <img src="media/butterfly.gif" alt="butterfly" width=30%/> <img src="media/dog.gif" alt="butterfly" width=20%/>
-<!--<h3 align="center"></h3>-->
+# Hi 👋, I'm [Mukesh](https://github.com/hakxcore) <img src="media/butterfly.gif" alt="butterfly" width=30%/> <img src="media/dog.gif" alt="butterfly" width=20%/>
+<!--<h3 align="center"><img src="media/animated-tree.gif" alt="butterfly" width=15%/></h>-->
 </br>
 </br>
 </br>
