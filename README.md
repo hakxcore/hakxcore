@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on [`Timepass`](https://github.com/hakxcore/Timepass) project
 
-- 🌱 I’m currently learning **`javascript`, `Go` and `solidity`.**
+- 🌱 I’m currently learning **`Go`**
 
 - 👯 I’m looking to collaborate on [`Termux-snippets`](https://github.com/hakxcore/Termux-snippets)
 
@@ -68,7 +68,7 @@
 </table>
     
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools I Know:</h3>
 
 <table style="border: none;">
   <tr style="border: none; padding: 0; margin: 0;">
