@@ -136,7 +136,7 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hakxcore&" alt="hakxcore" height="300" width="400"/></p>
 
-[![Hakxcor's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hakxcore&theme=xcode)](https://git.io/hakxcore)
+[![Hakxcor's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hakxcore&theme=xcode)](https://activity-graph.herokuapp.com/graph?username=hakxcore&theme=xcode)
   <br/> <br/> 
 
 
