@@ -15,7 +15,7 @@
   </table>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hakxcore&label=Profile%20views&color=0e75b6&style=flat" alt="hakxcore" /> </p>
 
-- 🔭 I’m currently working on [`Timepass`](https://github.com/hakxcore/Timepass) project
+- 🔭 I’m currently working on [`fig`](https://github.com/hakxcore/fig) project
 
 - 🌱 I’m currently learning **`Go`**
 
