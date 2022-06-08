@@ -1,4 +1,4 @@
-# Hi 👋, I'm [Mukesh](https://github.com/hakxcore) <img src="media/butterfly.gif" alt="butterfly" width="300"/> <img src="media/dog.gif" alt="butterfly" width="200"/>
+# Hi 👋, I'm [Mukesh](https://github.com/hakxcore) <img src="media/butterfly.gif" alt="butterfly" width="150"/> <img src="media/dog.gif" alt="butterfly" width="200"/>
 <!--<h3 align="center"><img src="media/animated-tree.gif" alt="butterfly" width=15%/></h>-->
 </br>
 </br>
