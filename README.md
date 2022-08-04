@@ -143,7 +143,27 @@
 [![Hakxcor's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hakxcore&theme=xcode)](https://activity-graph.herokuapp.com/graph?username=hakxcore&theme=xcode)
   <br/> <br/> 
 
-
+[comment]: <> (
+hakxcore
+resources
+investigator
+jktravels
+investigation
+domain-investigation
+music
+clock
+sunrise
+aday
+morph
+audio
+Matrix
+glitch
+weather
+idcard
+business
+links-sites
+nonprofit-org
+)
 
 <h3 align="left">Badges:</h3>
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
