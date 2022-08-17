@@ -136,9 +136,11 @@
 
 ---
 
-<p align="center"><img src="https://wakatime.com/share/@6cfc6d05-38b2-48d6-83aa-2609e431c00d/fbc86a23-f5c5-48b0-b0b1-f6067ceb44c4.svg" width="495"></p>
+<!-- <p align="center"><img src="https://wakatime.com/share/@f1da14aa-8bdd-4153-8929-e5d2a84c18fa/fbc86a23-f5c5-48b0-b0b1-f6067ceb44c4.svg" width="495"></p>
 
-<p></p>
+---
+
+<p align="center"><img src="https://wakatime.com/share/@f1da14aa-8bdd-4153-8929-e5d2a84c18fa/4e719e13-8af6-4cd7-9d6f-e0c68e0adb5e.svg" width="495"></p></p> -->
 
 [![Hakxcor's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hakxcore&theme=xcode)](https://activity-graph.herokuapp.com/graph?username=hakxcore&theme=xcode)
   <br/> <br/> 
