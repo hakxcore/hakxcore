@@ -126,17 +126,17 @@
 </table>
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/hakxcore"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/hakxcore" /></a></p><br/><br/>
-
 <h3 align="left">Github Stats:</h3>
-<p align="center">
-<a href="https://github.com/adityaoberai">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hakxcore&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakxcore"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hakxcore" alt="hakxcore" height="180em"/>
-</a>
-</p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hakxcore&theme=github_dark&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" width="495"></p>
+
+---
+
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=hakxcore&theme=github-dark-blue&hide_border=true" width="495"></p>
+
+---
+
+<p align="center"><img src="https://wakatime.com/share/@6cfc6d05-38b2-48d6-83aa-2609e431c00d/fbc86a23-f5c5-48b0-b0b1-f6067ceb44c4.svg" width="495"></p>
 
 <p></p>
 
@@ -164,6 +164,9 @@ business
 links-sites
 nonprofit-org
 )
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/hakxcore"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/hakxcore" /></a></p><br/><br/>
 
 <h3 align="left">Badges:</h3>
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
