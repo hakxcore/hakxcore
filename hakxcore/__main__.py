@@ -18,3 +18,6 @@ table_instance = SingleTable([["""
                                                                 
 """]], '(hakxcore)')
 print(Fore.BLACK+Back.WHITE+(table_instance.table))
+
+if __name__ == '__main__':
+    print()
