@@ -4,6 +4,8 @@
 </br>
 </br>
 
+`$ pip install hakxcore`
+
 <table style="border: none;">
   <tr style="border: none; padding: 0; margin: 0;">
   <td style="border: none; padding: 0; margin: 0;"> 
