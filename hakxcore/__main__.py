@@ -1,4 +1,4 @@
-#!/bin/python3
+#!/usr/bin/env python3
 from __future__ import print_function
 import colorama
 from colorama import Fore, Back, Style
@@ -18,4 +18,3 @@ table_instance = SingleTable([["""
                                                                 
 """]], '(hakxcore)')
 print(Fore.BLACK+Back.WHITE+(table_instance.table))
-print()
