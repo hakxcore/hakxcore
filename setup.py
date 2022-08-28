@@ -37,7 +37,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'hakxcore = hakxcore.__main__:print'
+            'hakxcore = hakxcore.__main__'
         ]
     },
     keywords=['hakxcore', 'bug bounty', 'mukesh', 'pentesting', 'security', 'development', 'enterprenurship'],
