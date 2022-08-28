@@ -1,0 +1,6 @@
+include *.html
+recursive-include build *.py
+recursive-include dist *.whl
+recursive-include hakxcore *.py
+recursive-include media *.gif
+recursive-include media *.png

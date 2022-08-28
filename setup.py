@@ -1,53 +1,44 @@
-import setuptools
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 
-with open("README.md", "r") as fh:
-	long_description = fh.read()
+import io
+from setuptools import setup, find_packages
+from os import path
+this_directory = path.abspath(path.dirname(__file__))
+with io.open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
+    desc = f.read()
 
-setuptools.setup(
-	# Here is the module name.
-	name="hakxcore",
-
-	# version of the module
-	version="0.0.1",
-
-	# Name of Author
-	author="Mukesh Kumar",
-
-	# your Email address
-	author_email="mukehkumarcharak@gmail.com",
-
-	# #Small Description about module
-	# description="adding number",
-
-	# long_description=long_description,
-
-	# Specifying that we are using markdown file for description
-	long_description=long_description,
-	long_description_content_type="text/markdown",
-
-	# Any link to reach this module, ***if*** you have any webpage or github profile
-	url="https://github.com/hakxcore/",
-	packages=setuptools.find_packages(),
-
-
-	# if module has dependencies i.e. if your package rely on other package at pypi.org
-	# then you must add there, in order to download every requirement of package
-
-
-
-	#	 install_requires=[
-	#	 "package1",
-	# "package2",
-	# ],
-
-
-	license="MIT",
-
-	# classifiers like program is suitable for python3, just leave as it is.
-	classifiers=[
-		"Programming Language :: Python :: 3",
-		"License :: OSI Approved :: MIT License",
-		"Operating System :: OS Independent",
-	],
+setup(
+    name='hakxcore',
+    version=__import__('hakxcore').__version__,
+    description='Hakxcore personal Repo and python package',
+    long_description=desc,
+    long_description_content_type='text/markdown',
+    author='Mukesh Kumar',
+    author_email='mukeshkumarchark@gmail.com',
+    license='MIT Licence',
+    url='https://github.com/s0md3v/Arjun',
+    download_url='https://github.com/hakxcore/hakxcore/archive/refs/heads/main.zip',
+    zip_safe=False,
+    packages=find_packages(),
+    install_requires=[
+        'future',
+        'terminaltables',
+        'colorama'
+    ],
+    classifiers=[
+        'Development Status :: 5 - Production/Stable',
+        'Intended Audience :: Developers',
+        'Intended Audience :: Information Technology',
+        'Operating System :: OS Independent',
+        'Topic :: Hakxcore',
+        'License :: OSI Approved :: MIT Licence',
+        'Programming Language :: Python :: 3.4',
+    ],
+    entry_points={
+        'console_scripts': [
+            'hakxcore = hakxcore.__main__:print'
+        ]
+    },
+    keywords=['hakxcore', 'bug bounty', 'mukesh', 'pentesting', 'security', 'development', 'enterprenurship'],
 )
-

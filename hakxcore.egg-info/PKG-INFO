@@ -1,15 +1,21 @@
 Metadata-Version: 2.1
 Name: hakxcore
 Version: 0.0.1
-Summary: UNKNOWN
-Home-page: https://github.com/hakxcore/
+Summary: Hakxcore personal Repo and python package
+Home-page: https://github.com/s0md3v/Arjun
 Author: Mukesh Kumar
-Author-email: mukehkumarcharak@gmail.com
-License: MIT
+Author-email: mukeshkumarchark@gmail.com
+License: MIT Licence
+Download-URL: https://github.com/hakxcore/hakxcore/archive/refs/heads/main.zip
+Keywords: hakxcore,bug bounty,mukesh,pentesting,security,development,enterprenurship
 Platform: UNKNOWN
-Classifier: Programming Language :: Python :: 3
-Classifier: License :: OSI Approved :: MIT License
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Information Technology
 Classifier: Operating System :: OS Independent
+Classifier: Topic :: Hakxcore
+Classifier: License :: OSI Approved :: MIT Licence
+Classifier: Programming Language :: Python :: 3.4
 Description-Content-Type: text/markdown
 License-File: LICENCE
 
