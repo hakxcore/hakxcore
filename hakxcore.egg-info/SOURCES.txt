@@ -1,0 +1,9 @@
+LICENCE
+README.md
+setup.py
+hakxcore/__init__.py
+hakxcore/main.py
+hakxcore.egg-info/PKG-INFO
+hakxcore.egg-info/SOURCES.txt
+hakxcore.egg-info/dependency_links.txt
+hakxcore.egg-info/top_level.txt
