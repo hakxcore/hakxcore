@@ -10,7 +10,7 @@
   <tr style="border: none; padding: 0; margin: 0;">
   <td style="border: none; padding: 0; margin: 0;"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-      <img src="https://github-profile-trophy.vercel.app/?username=hakxcore" alt="hakxcore" width='700' height='200' style='margin-right: 1rem;'/>
+      <img src="https://github-profile-trophy.vercel.app/?username=hakxcore&theme=algolia" alt="hakxcore" width='700' height='200' style='margin-right: 1rem;'/>
     </a>
     </td>
   </tr>
