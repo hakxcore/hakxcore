@@ -1,20 +1,14 @@
 # Hi 👋, I'm [Mukesh](https://github.com/hakxcore) <img src="media/butterfly.gif" alt="butterfly" width="150"/> <img src="media/dog.gif" alt="butterfly" width="200"/>
-<!--<h3 align="center"><img src="media/animated-tree.gif" alt="butterfly" width=15%/></h>-->
-</br>
+<!--<h3 align="center"><img src="media/animated-tree.gif" alt="butterfly" width=15%/></h>   width='700' height='200' style='margin-right: 1rem;'-->
 </br>
 </br>
 
 `$ pip install hakxcore`
 
-<table style="border: none;">
-  <tr style="border: none; padding: 0; margin: 0;">
-  <td style="border: none; padding: 0; margin: 0;"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-      <img src="https://github-profile-trophy.vercel.app/?username=hakxcore&theme=algolia" alt="hakxcore" width='700' height='200' style='margin-right: 1rem;'/>
-    </a>
-    </td>
-  </tr>
-  </table>
+<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+  <img width=900 src="https://github-profile-trophy.vercel.app/?username=hakxcore&column=8&theme=algolia&no-frame=true"/>
+</a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hakxcore&label=Profile%20views&color=0e75b6&style=flat" alt="hakxcore" /> </p>
 
 - 🔭 I’m currently working on [`fig`](https://github.com/hakxcore/fig) project
