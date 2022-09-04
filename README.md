@@ -5,12 +5,15 @@
 
 `$ pip install hakxcore`
 
+---
+
 <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
   <img width=900 src="https://github-profile-trophy.vercel.app/?username=hakxcore&column=8&theme=algolia&no-frame=true"/>
 </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hakxcore&label=Profile%20views&color=0e75b6&style=flat" alt="hakxcore" /> </p>
 
+<!--
 - 🔭 I’m currently working on [`fig`](https://github.com/hakxcore/fig) project
 
 - 🌱 I’m currently learning **`Go`**
@@ -21,7 +24,7 @@
 
 - 💬 Ask me about **`pentesting`**
 
-- 📫 How to find me **from 👇** 
+- 📫 How to find me **from 👇**  -->
 
 <h3 align="left">Connect with me:</h3>
 
@@ -121,10 +124,13 @@
     </tr>
 </table>
 
+---
 
-<h3 align="left">Github Stats:</h3>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hakxcore&theme=github_dark&layout=compact" width="495"></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hakxcore&theme=github_dark&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" width="495"></p>
+---
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=hakxcore&theme=github_dark&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" width="495"></p>
 
 ---
 
@@ -132,13 +138,10 @@
 
 ---
 
-<!-- <p align="center"><img src="https://wakatime.com/share/@f1da14aa-8bdd-4153-8929-e5d2a84c18fa/fbc86a23-f5c5-48b0-b0b1-f6067ceb44c4.svg" width="495"></p>
 
----
 
-<p align="center"><img src="https://wakatime.com/share/@f1da14aa-8bdd-4153-8929-e5d2a84c18fa/4e719e13-8af6-4cd7-9d6f-e0c68e0adb5e.svg" width="495"></p></p> -->
 
-[![Hakxcor's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hakxcore&theme=xcode)](https://activity-graph.herokuapp.com/graph?username=hakxcore&theme=xcode)
+[![Hakxcor's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hakxcore&theme=github-dark-blue)](https://activity-graph.herokuapp.com/graph?username=hakxcore&theme=xcode)
   <br/> <br/> 
 
 [comment]: <> (
