@@ -138,11 +138,14 @@
 
 ---
 
+<p align="center"><img src="https://wakatime.com/share/@hakxcore/8af0d0ef-2d49-456e-b496-f0c4ad266c37.svg" width="495"></p>
+
+---
 
 
-
-[![Hakxcor's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hakxcore&theme=github-dark-blue)](https://activity-graph.herokuapp.com/graph?username=hakxcore&theme=xcode)
-  <br/> <br/> 
+[![Hakxcor's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hakxcore&theme=github-dark-blue)](https://activity-graph.herokuapp.com/graph?username=hakxcore&theme=xcode) 
+  
+  ---
 
 [comment]: <> (
 hakxcore
