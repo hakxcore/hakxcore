@@ -143,9 +143,9 @@
 ---
 
 
-[![Hakxcor's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hakxcore&theme=github-dark-blue)](https://activity-graph.herokuapp.com/graph?username=hakxcore&theme=xcode) 
+<!-- [![Hakxcor's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hakxcore&theme=github-dark-blue)](https://activity-graph.herokuapp.com/graph?username=hakxcore&theme=xcode) 
   
-  ---
+  --- -->
 
 [comment]: <> (
 hakxcore
