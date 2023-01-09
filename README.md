@@ -4,7 +4,7 @@
 </br>
 
 `$ pip install hakxcore`
-
+[![Downloads](https://static.pepy.tech/badge/hakxcore)](https://pepy.tech/project/hakxcore)
 ---
 
 <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
