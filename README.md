@@ -67,9 +67,23 @@
 </table>
     
 
-<h3 align="left">Languages and Tools I Know:</h3>
+### Languages and Tools I Know:
+![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
+![Javascript](http://img.shields.io/badge/-Javascript-118ab2?style=for-the-badge&logo=Javascript&logoColor=ffffff)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-232F3E?style=for-the-badge&logo=Terraform=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-%23E44D27?style=for-the-badge&logo=kubernetes&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/-Docker-3776AB?style=for-the-badge&logo=docker&logoColor=ffffff)
+![CICD](https://img.shields.io/badge/-CICD-3776AB?style=for-the-badge&logo=jenkins&logoColor=ffffff)
+![Shell](https://img.shields.io/badge/-Shell-000000?style=for-the-badge&logo=shell)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![Burpsuite](https://img.shields.io/badge/Burpsuite-430098?style=for-the-badge&logo=Burpsuite&logoColor=white)
+<!-- ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=ffffff) -->
 
-<table style="border: none;">
+<!-- ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff) -->
+  
+<!-- <table style="border: none;">
   <tr style="border: none; padding: 0; margin: 0;">
  
   <td style="border: none; padding: 0; margin: 0;"> 
@@ -122,7 +136,7 @@
   </a>
    </td>
     </tr>
-</table>
+</table> -->
 
 ---
 
@@ -169,8 +183,8 @@ links-sites
 nonprofit-org
 )
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/hakxcore"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/hakxcore" /></a></p><br/><br/>
+<!-- <h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/hakxcore"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/hakxcore" /></a></p><br/><br/> -->
 
 <h3 align="left">Badges:</h3>
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
