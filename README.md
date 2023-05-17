@@ -26,46 +26,12 @@
 
 - 📫 How to find me **from 👇**  -->
 
-<h3 align="left">Connect with me:</h3>
-
-
-<table style="border: none;">
-  <tr style="border: none; padding: 0; margin: 0;">
- 
-  <td style="border: none; padding: 0; margin: 0;"> 
-    <a href="https://dev.to/hakxcore" target="_blank">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Dev hakxcore" width='30' height='40' style='margin-right: 1rem;'/>
-    </a>
-   </td>
-    
-    
-  <td style="border: none; padding: 0; margin: 0;"> 
-    <a href="https://twitter.com/hakxcore" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hakxcore twitter" width='30' height='40' style='margin-right: 1rem;'/>
-    </a>
-   </td>
-    
-    
-  <td style="border: none; padding: 0; margin: 0;"> 
-    <a href="https://www.facebook.com/profile.php?id=100020452812971)" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mukesh kumar's facebook" width='30' height='40' style='margin-right: 1rem;'/>
-    </a>
-   </td>
-    
-  <td style="border: none; padding: 0; margin: 0;"> 
-    <a href="https://www.instagram.com/hakxcore/" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Mukesh kumar's instagram" width='30' height='40' style='margin-right: 1rem;'/>
-    </a>
-   </td>
- 
-   <td style="border: none; padding: 0; margin: 0;"> 
-    <a href="https://www.youtube.com/channel/UCmN1GRJ76H4y45Y81iJbYWQ" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Youtube Hakxcore" width='30' height='40' style='margin-right: 1rem;'/>
-    </a>
-   </td
-    </tr>
-</table>
-    
+### Connect with me:
+![Dev](http://img.shields.io/badge/-DEV-3776AB??style=for-the-badge&logo=dev.to&logoColor=0A0A0A&link=https://dev.to/hakxcore)
+![Dev](http://img.shields.io/badge/-TWITTER-3776AB??style=for-the-badge&logo=twitter&logoColor=1DA1F2&link=https://twitter.com/hakxcore)
+![Dev](http://img.shields.io/badge/-FACEBOOK-3776AB??style=for-the-badge&logo=facebook&logoColor=1877F2&link=https://www.facebook.com/profile.php?id=100020452812971)
+![Dev](http://img.shields.io/badge/-INSTAGRAM-3776AB??style=for-the-badge&logo=instagram&logoColor=E4405F&link=https://www.instagram.com/hakxcore/)
+![Dev](http://img.shields.io/badge/-YOUTUBE-3776AB??style=for-the-badge&logo=youtube&logoColor=FF0000&link=https://www.youtube.com/channel/UCmN1GRJ76H4y45Y81iJbYWQ)
 
 ### Languages and Tools I Know:
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
